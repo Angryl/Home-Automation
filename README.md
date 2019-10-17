@@ -3,6 +3,9 @@ An IoT Project using Arduino UNO, that control a Room appliences wirelssely usin
 this project is very basic level project in IOT.
 In this project we control All the *Electrical appliences* wirelessely.
 
+# Technology
+ Aurduino
+ 
 # Prerequisites
   1.Arduino UNO</br>
   2.HC-05 bluetooth Module</br>
